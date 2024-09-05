@@ -35,7 +35,7 @@
 
 ## Hover Effect
 
-- 이미지 움직이는 효과
+- 파도가 치는 듯한 hover 효과
 
 <BR>
 
